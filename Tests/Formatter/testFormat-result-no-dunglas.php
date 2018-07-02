@@ -1562,8 +1562,7 @@ With multiple lines.',
       'method' => 'ANY',
       'uri' => '/my-commented/{id}/{page}/{paramType}/{param}',
       'description' => 'This method is useful to test if the getDocComment works.',
-      'documentation' => 'This method is useful to test if the getDocComment works.
-And, it supports multilines until the first \'@\' char.',
+      'documentation' => 'This method is useful to test if the getDocComment works.<br />And, it supports multilines until the first \'@\' char.',
       'requirements' =>
       array (
         'id' =>
